@@ -9,7 +9,7 @@ Multimodal classification of social media is used to classify data from differen
 
 Full datasets can be downloaded below.
 
-- [PHEME Dataset](https://mcrlab.net/research/mvsa-sentiment-analysis-on-multi-view-social-data/)
+- [MVSA Dataset](https://mcrlab.net/research/mvsa-sentiment-analysis-on-multi-view-social-data/)
 
 - [Sarcasm Detection Dataset](https://github.com/GT-DLT-2021/Multimodal-Sarcasm-Detection)
 
