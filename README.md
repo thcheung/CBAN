@@ -14,3 +14,21 @@ Full datasets can be downloaded below.
 - [CrisisMMD Dataset](https://crisisnlp.qcri.org/crisismmd)
 
 - [MMHS150K Dataset](https://gombru.github.io/2019/10/09/MMHS/)
+
+## Citation
+
+Please cite our work if you found this project useful
+
+```
+@article{CHEUNG20221,
+title = {Crossmodal bipolar attention for multimodal classification on social media},
+journal = {Neurocomputing},
+volume = {514},
+pages = {1-12},
+year = {2022},
+issn = {0925-2312},
+doi = {https://doi.org/10.1016/j.neucom.2022.09.140},
+url = {https://www.sciencedirect.com/science/article/pii/S092523122201236X},
+author = {Tsun-hin Cheung and Kin-man Lam},
+}
+```
