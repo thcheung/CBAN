@@ -17,7 +17,7 @@ Full datasets can be downloaded below.
 
 ## Citation
 
-Please cite our work if you found this project useful
+Please cite our work if you found this project useful.
 
 ```
 @article{CHEUNG20221,
